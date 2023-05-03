@@ -4,4 +4,4 @@ int main(){
 	cout<<"ingresa el mensaje";
 	cin><datosIngresados;
 cout>>
-}
+}gnmkdflmgl.
