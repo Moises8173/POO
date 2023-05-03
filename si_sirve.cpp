@@ -4,4 +4,7 @@ int main(){
 	cout<<"ingresa el mensaje";
 	cin><datosIngresados;
 cout>>
+	int x;
+	cout<<"Ingrese el valor de su sueldo";
+	cin>>x;
 }
